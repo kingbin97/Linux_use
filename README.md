@@ -1,7 +1,5 @@
-脚本可配合
-···
-crontab -e 使用
-···
+脚本可配合 crontab -e 使用
+
 backup_system_config.sh：  备份系统关键文件
 calculate_dir_sizes.sh：   计算文件目录大小
 calculate_homedir_size.sh：计算家目录大小
